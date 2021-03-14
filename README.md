@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pipeeeeees
+- 👀 I’m interested in setting up my github
+- 🌱 I’m currently setting up my github
+- 💞️ I’m looking to collaborate on setting up my github
+- 📫 pipeeeeees@gmail.com
