@@ -10,4 +10,4 @@ My name is David Pipes, and I am currently a senior at Georgia Tech finishing up
 <h2>Current Interests</h2>
 🎓 Finishing up Undergrad in May 2021 <br />
 ⚡️ Looking to start my career in EE or SWE Summer 2021 <br />
-🐝 Applied to Georgia Tech's OMSCS Program Fall 2021 <br />
+🐝 Admitted into Georgia Tech's OMSCS Program Fall 2021 <br />
