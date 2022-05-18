@@ -1,6 +1,6 @@
 <h2>👋 Hello World, I’m David H. Pipes </h2>
 
-MSCS Student @ Georgia Tech
+MSCS Student @ Georgia Tech<br />
 Part-time Electrical Engineer @ Micromeritics Instrument Corp
 
 This GitHub account contains current and old coding projects. <br />
