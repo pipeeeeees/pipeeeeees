@@ -1,6 +1,7 @@
 <h2>👋 Hello World, I’m David H. Pipes </h2>
 
-I am a 24 year-old Metro-Atlanta native interested in technology. I hold a Bachelors degree in Electrical Engineering at Georgia Tech, and I am currently on track to earn my Masters of Science in Computer Science. 
+MSCS Student @ Georgia Tech
+Part-time Electrical Engineer @ Micromeritics Instrument Corp
 
 This GitHub account contains current and old coding projects. <br />
 
