@@ -1,21 +1,12 @@
-<h2>👋 Hello World, I’m David H. Pipes </h2>
+<h1> Hi there, I’m David 👋 </h1>
 
-I am...
-- an Atlanta native!
-- 24 years of age
-- Dachshund Dad
-
-
-
-<h2>... and I'm interested in highly intuitive technology!</h2>
-
-I am...
-- a Helluva Electrical Engineer (BSCS, GT Class of 2021)<br/>
-- a MSCS Student @ Georgia Tech (OMSCS Program, GT Class of 2024)<br/>
-
-
-👨🏻‍💻 Check out my [GaTech Github contributions](https://github.gatech.edu/dpipes3)!<br/>
-👔 Check out my [LinkedIn](http://www.linkedin.com/in/dpipes3) for professional inquiries!<br />
-📫 Send me an email!<br />
-• davidhpipes@gmail.com (personal)<br />
+I'm an **Electrical Engineer** and **MSCS Student** based in **Atlanta, Georgia** interested in engineering highly intuitive technology!
+- ⚡️ I'm currently working part-time as an Electrical Engineer with the good folks over at [Micromeritics Instrument Corp.](https://www.micromeritics.com)
+- 🐝 I'm currently a full-time **Masters of Science of Computer Science Student at Georgia Tech**, Spring 2024 Graduation Target 🎯
+- ⚙️ I commonly dabble in: `.py`, `.cpp`, `.sql`, `.html`, `.v`
+- 🌱 Learning more about and studying: **Database Systems, Software Development Process, and Human-Computer Interaction**
+- 🎮 Currently participating in **XBOX Game Studios Game Camp Atlanta** as an engineer
+- 👔 Check out my [LinkedIn](http://www.linkedin.com/in/dpipes3) - let's connect!
+- 📫 Send me an email!<br />
 • dpipes3@gatech.edu (school)<br />
+• davidhpipes@gmail.com (personal)<br />
