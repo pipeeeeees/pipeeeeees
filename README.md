@@ -1,6 +1,6 @@
 <h1> Hello World, I’m David 👋 </h1>
 
-I'm an **Electrical Engineer** and **MSCS Student** based in **Atlanta, Georgia** interested in engineering intuitive technology!
+I'm an **Electrical Engineer** and **MSCS Student** based in **Atlanta, Georgia**!
 - ⚡️ I'm a part-time Electrical Engineer at [Micromeritics Instrument Corp.](https://www.micromeritics.com)
 - 🐝 I'm a full-time **Master of Science of Computer Science Student at Georgia Tech**, Spring 2024 Target Graduation 🎯
 - ⚙️ I commonly dabble in: `.py`, `.cpp`, `.c`, `.sql`, `.html`, `.v`
