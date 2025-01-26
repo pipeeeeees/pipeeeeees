@@ -1,6 +1,6 @@
 <h1> Hello World, I’m David 👋 </h1>
 
-- Electrical Engineer
-- Atlanta, GA
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipeeeeees&show_icons=false&theme=transparent)
+I am:
+- a Professional Hardware Engineer specialized in PCB design
+- a software developer hobbiest
+- from Atlanta, GA
